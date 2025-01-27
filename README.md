@@ -4,10 +4,6 @@
 
 Welcome to the AI Personal Trainer project, a groundbreaking innovation in the fitness industry. Bid farewell to monotonous workouts and say hello to a new era of personalized fitness, powered by advanced AI, React, Node.js, and state-of-the-art computer vision technology. It's not merely a project; it's your gateway to a fitness revolution! 🌟
 
-## Project Overview 🌐
-
-In your sixth-semester project, we've unleashed the future of fitness, driven by cutting-edge technologies like React and Node.js. Our AI-driven personal trainer is designed to reshape the way you approach workouts, offering real-time feedback, performance tracking, and unparalleled engagement. Prepare to embark on a fitness journey like never before! 💪
-
 ## Empowering Features 💪
 
 ### 🧘 Yoga Assist with Pose Recognition 🕉️
